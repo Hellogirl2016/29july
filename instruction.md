@@ -37,3 +37,6 @@ git branch <название_ветки>
 или вот так
 
 git checkout -b <название_ветки>
+
+
+git is an importatnt instrument for programmers
