@@ -39,4 +39,4 @@ git branch <название_ветки>
 git checkout -b <название_ветки>
 
 
-git is A very importatnt instrument for programmers, since it help them in remote work!
+git ! What is it???
