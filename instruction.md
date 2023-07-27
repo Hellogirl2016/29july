@@ -39,4 +39,4 @@ git branch <название_ветки>
 git checkout -b <название_ветки>
 
 
-git is an importatnt instrument for programmers
+git is NOT very importatnt instrument for programmers
