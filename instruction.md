@@ -42,4 +42,5 @@ git checkout -b <название_ветки>
 git ! What is it???
 Please , send me description!
 
+is it ok for you?
 Ok?
